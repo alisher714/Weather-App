@@ -27,7 +27,6 @@ search.addEventListener("click", () => {
         error404.classList.add("active");
         return;
       }
-
       
       const image = document.querySelector(".weather-box img");
       const temperature = document.querySelector(".weather-box .temperature");
