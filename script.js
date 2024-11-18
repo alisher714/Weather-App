@@ -143,7 +143,6 @@ search.addEventListener("click", () => {
             }, 2200);
 
           }
-
       }
     });
 });
